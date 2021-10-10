@@ -21,6 +21,6 @@ You can also modify `app/src/modules/indexdata.js` to manually index data using 
 In `app/src/modules/cron.js`, there is an integration to fetch data from a web which will periodically extract data and index.
 
 
-## Usefull Links
+## Links
 ##### [Docker](https://www.docker.com/)
 ##### [Elasticsearch](https://www.elastic.co/)
