@@ -1,12 +1,12 @@
-# Elasticsearch Kabana with NodeJS
-A complete dockerized integration of Elastic Search, Kabana and NodeJS
+# Elasticsearch Kibana with NodeJS
+A complete dockerized integration of Elastic Search, Kibana and NodeJS
 
 
 ![Recurrent Neural Network](https://antaresnet.com/wp-content/uploads/2018/07/Elasticsearch-Logo-Color-V.png "Recurrent Neural Network")
 ### Run
 `docker-compose up -d`
 
-### Kabana URL
+### Kibana URL
 http://localhost:5601/
 
 ### Elastic Endpoint
